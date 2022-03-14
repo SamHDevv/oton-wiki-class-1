@@ -1,0 +1,15 @@
+body{
+    margin-left:200px;
+}
+h1{
+    font-size:40px;
+} 
+hr{
+    border-color: rgb(183, 183, 192);
+}
+.italic{
+    font-style: italic;
+}
+.container{
+    display: flex;
+}
