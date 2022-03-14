@@ -13,3 +13,7 @@ hr{
 .container{
     display: flex;
 }
+.table-title{
+    text-align: center;
+    background-color: #E6E6FA;
+}
